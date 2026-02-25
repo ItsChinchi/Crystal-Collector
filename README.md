@@ -1,10 +1,10 @@
 # Crystal Collector — Unreal Engine 5
 
-A top-down game where the player 
+A top-down game built with Blueprints in UE5 where the player 
 collects crystals while avoiding cannon fire.
 
 ## 🎮 Gameplay
-[paste YouTube link here]
+
 
 ## ✨ Features
 - Player movement and possession via Player Controller
@@ -13,14 +13,18 @@ collects crystals while avoiding cannon fire.
 - Dynamic lighting system
 - Level design with custom layout
 - Timeline-based animations
-- Modular scpripting architecture using Macros and Macro Libraries
-- Level reloads when the player loses
+- Modular Blueprint architecture using Macros and Macro Libraries
 
 ## 🧠 Concepts Applied
+- Blueprint Actors and Pawns
 - Variable creation and exposure to editor
 - Player Controller and Pawn Possession
 - Apply Damage system
 - Timelines for smooth animations
 - Encapsulation with Macros and Macro Libraries
+
+## 🛠 Built With
+- Unreal Engine 5
+- Blueprints
 
 ## 📸 Screenshots
