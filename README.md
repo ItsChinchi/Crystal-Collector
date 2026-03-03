@@ -1,6 +1,6 @@
 # Crystal Collector — Unreal Engine 5
 
-A top-down game built with Blueprints in UE5 where the player 
+A top-down game built with Blueprints in UE5 from GameDev.tv couese where the player 
 collects crystals while avoiding cannon fire.
 
 ## 🎮 Gameplay
