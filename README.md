@@ -14,6 +14,7 @@ https://drive.google.com/file/d/10nWpTtS1Cc4Uvsp5_JvOSg_7CCe6RYPj/view?usp=shari
 - Level design with custom layout
 - Timeline-based animations
 - Modular Blueprint architecture using Macros and Macro Libraries
+- Two levels to enhance the gameplay experience
 
 ## 🧠 Concepts Applied
 - Blueprint Actors and Pawns
